@@ -6,7 +6,8 @@ Requirement:
 -------------------------------------------------------
 psycopg2:
 
-Ubuntu
+- Ubuntu
+
 	sudo apt-get install python-psycopg2
 
 Usage:
