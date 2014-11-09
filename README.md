@@ -4,7 +4,8 @@ HW2
 
 Requirement:
 -------------------------------------------------------
-psycopg2
+psycopg2:
+
 	- Ubuntu
 	sudo apt-get install python-psycopg2
 
