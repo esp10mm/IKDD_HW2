@@ -6,6 +6,6 @@ Usage:
 	
 Example:
 	
-	python IKDDhw2.py ¤ý«Ø©ú
+	python IKDDhw2.py çŽ‹å»ºæ˜Ž
 	
 	
